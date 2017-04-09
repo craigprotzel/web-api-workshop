@@ -2,9 +2,9 @@ INTRO TO WEB DATA APIs
 ----------------------
 
 ### PLAN
-I. Web APIs Lecture
-II. API Exercise
-III. Making A Web Page with a Data API
+I. Web APIs Lecture  
+II. API Exercise  
+III. Making A Web Page with a Data API  
 
 ### API EXAMPLES
 * [Open Weather](http://openweathermap.org/current)
