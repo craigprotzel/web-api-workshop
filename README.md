@@ -6,10 +6,10 @@ INTRO TO WEB DATA APIs
 * API Exercise
 * Making A Web Page with a Data API  
 
-### API Examples
-* [Open Weather](http://openweathermap.org/current)
-* [Wiki Search](https://en.wikipedia.org/w/api.php?action=opensearch&format=json&search=nyuad)
-* [OpenNotify - People In Space](http://open-notify.org/Open-Notify-API/People-In-Space/)
+### Data API Examples
+* [OpenWeather](http://openweathermap.org/current)
+* [WikiSearch](https://en.wikipedia.org/w/api.php?action=opensearch&format=json&search=nyuad)
+* [OpenNotify - HowManyPeopleInSpace](http://open-notify.org/Open-Notify-API/People-In-Space/)
 * [KanyeREST](http://www.kanyerest.xyz)
 
 ### Code Setup
@@ -28,4 +28,7 @@ You are going to need a 'code-friendly' Text Editor. We will use this Text Edito
 
 ### Links
 * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) - [Chrome Web Extensions](https://chrome.google.com/webstore/category/extensions)
-* [Watson APIs](https://www.ibm.com/watson/developercloud/) 
+* Resource APIs
+	* [Google Maps API](https://developers.google.com/maps/web/)
+* Service APIs
+	* [Watson APIs](https://www.ibm.com/watson/developercloud/) 
