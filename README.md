@@ -9,7 +9,7 @@ INTRO TO WEB DATA APIs
 ### Links
 * [NYUAD Interactive Media](http://nyuad.im/) + [Program Github Repo](https://github.com/nyuad-im)
 * [Programmable Web](https://www.programmableweb.com/)
-* [CodeCademy](https://www.codecademy.com/apis)
+* [Codecademy API Lessons](https://www.codecademy.com/apis)
 * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) - [Chrome Web Extensions](https://chrome.google.com/webstore/category/extensions)
 
 ### Data API Examples
