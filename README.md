@@ -2,7 +2,7 @@ INTRO TO WEB DATA APIs
 ----------------------
 
 ### Plan
-* Web APIs Lecture
+* [Web APIs Lecture](https://github.com/craigprotzel/web-api-workshop/blob/master/lecture/Intro_to_Web_APIs.pdf)
 * API Exploration
 * Making A Web Page with a Web Data API  
 
