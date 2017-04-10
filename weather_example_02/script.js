@@ -1,5 +1,3 @@
-//alert("Welcome to my web site!");
-
 //Define a function to call when the button is clicked
 function getWeatherInfo(){
 	console.log("Getting weather information!");

@@ -3,8 +3,14 @@ INTRO TO WEB DATA APIs
 
 ### Plan
 * Web APIs Lecture
-* API Exercise
-* Making A Web Page with a Data API  
+* API Exploration
+* Making A Web Page with a Web Data API  
+
+### Links
+* [NYUAD Interactive Media](http://nyuad.im/) + [Program Github Repo](https://github.com/nyuad-im)
+* [Programmable Web](https://www.programmableweb.com/)
+* [CodeCademy](https://www.codecademy.com/apis)
+* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) - [Chrome Web Extensions](https://chrome.google.com/webstore/category/extensions)
 
 ### Data API Examples
 * [OpenWeather](http://openweathermap.org/current)
@@ -25,10 +31,3 @@ You are going to need a 'code-friendly' Text Editor. We will use this Text Edito
   * jQuery - a javascript library that makes web programming a bit easier for us
   * API (Application Programming Interface) - where & how we get data
   * JSON - the data format
-
-### Links
-* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) - [Chrome Web Extensions](https://chrome.google.com/webstore/category/extensions)
-* Resource APIs
-	* [Google Maps API](https://developers.google.com/maps/web/)
-* Service APIs
-	* [Watson APIs](https://www.ibm.com/watson/developercloud/) 

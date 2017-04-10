@@ -5,7 +5,9 @@ This example will search Open Weather for a user submitted entry
 And then populate those results on the page using the jQuery 'append' function
 
 OpenWeather API - http://openweathermap.org/api
-Please sign up on OpenWeatherMap to get your own APPID.
+Please sign up on OpenWeatherMap API Key to get your own APPID.
+
+Note - the numbers are hard-coded for Fahrenheit Temps
 ------------------------- */
 
 //Define the url for the weather API call
